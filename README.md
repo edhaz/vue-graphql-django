@@ -1,0 +1,1 @@
+A test website using Vue3, GraphQL and Django.
